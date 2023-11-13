@@ -1,0 +1,11 @@
+.EightBall {
+  background-color: black;
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+}
+
+.EightBall p {
+  font-size: 2rem;
+  color: white;
+}
